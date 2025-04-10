@@ -40,13 +40,6 @@ I excel at building clean, efficient architectures and collaborating with cross-
 
 ---
 
-## 🔗 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/jeffmerchan)  
-- 🌍 Location: Brazil
-
----
-
 ### 📊 Estatísticas
 
 <p>
