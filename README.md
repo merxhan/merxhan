@@ -90,7 +90,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailw
 
 <p>
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
@@ -98,7 +98,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailw
   />
 
 <img 
-      align="right" 
+      align="center" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=merxhan&theme=tokyonight&layout=compact&custom_title=Top+Languages&langs_count=9" 
